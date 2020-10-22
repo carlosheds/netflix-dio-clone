@@ -1,5 +1,7 @@
 Projeto <strong>Recriando a interface do Netflix</strong> , Bootcamp HTML Web Developer, [Digital Innovation One](https://web.digitalinnovation.one/home)
 
+## [Resultado](https://carlosheds.github.io/netflix-dio-clone/)
+
 ## Tecnologias
 * HTML 5
 * CSS
